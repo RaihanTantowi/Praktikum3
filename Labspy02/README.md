@@ -30,6 +30,7 @@
     main()
 ```
 Berikut adalah flowchart program:
+
 ![Gambar 1](screenshoot/flowchart.png)
 
 * **Hasil output program:**
