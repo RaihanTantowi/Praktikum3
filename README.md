@@ -115,39 +115,3 @@ for a in range(0,10):
 * **Hasil output program:**
 
 ![Gambar 4](screenshoot/ss4.png)
-
- ### 5. Labspy02(Tugas praktikum 2)
-**Program sederhana untuk menentukan bilangan terbesar dari tiga buah bilangan yang diinputkan**
-
-* **CODINGAN:**
-```
- def main():
-    # membuat judul program
-    print("="*89)
-    print("Program sederhana untuk menentukan bilangan terbesar dari tiga buah bilangan yang diinputkan")
-    print("="*89)
-    # input dari user
-    a = int(input('masukan bilangan ke-1: '))
-    b = int(input('masukan bilangan ke-2: '))
-    c = int(input('masukan bilangan ke-3: '))
- 
-    # menentukan nilai bilangan
-    maks = a
-    if b > maks:
-        maks = b
-    if c > maks:
-        maks = c
- 
-    # cetak hasil
-    print('bilangan terbesar adalah: %d' % maks)
- 
- if __name__=='__main__':
-    main()
-```
-Berikut adalah flowchart program:
-
-![Gambar 6](screenshoot/flowchart.png)
-
-* **Hasil output program:**
-
-![Gambar 5](screenshoot/ss5.png)
