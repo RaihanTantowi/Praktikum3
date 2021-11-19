@@ -4,7 +4,7 @@
 ### 1. File program latihan1 (Lab 2 Struktur kondisi)
 **Program sederhana untuk menentukan bilangan terbesar dari dua bilangan yang diinputkan**
 
-**CODINGAN:**
+* **CODINGAN:**
 ```
  #Membuat judul program 
  print("="*86)
@@ -19,14 +19,14 @@
  elif (bil2>bil1):
     print("Hasil bilangan terbesarnya adalah= ",bil2)
 ```
-**Hasil output program:**
+* **Hasil output program:**
 
 ![Gambar 1](screenshoot/ss1.png)
 
 ### 2. File program latihan2 (Lab 2 Struktur kondisi)
 **Program untuk mengurutkan bilangan dari yang terkecil hingga terbesar**
 
-***CODINGAN:**
+* **CODINGAN:**
 ```
  #Judul Program
  print('='*70)
@@ -70,27 +70,27 @@
          print('='*45)
  pengulangan()
 ```
-***Hasil output program:**
+* **Hasil output program:**
 
 ![Gambar 2](screenshoot/ss2.png)
 
 ### 3. File program latihan 1 (Lab 3 Perulangan)
 **Program dengan perulangan bertingkat (nested) for**
 
-***CODINGAN:**
+* **CODINGAN:**
 ```
 for a in range(0,10):
 	for b in range(0,10):
             print(a+b, end=" ")
 	print()
 ```
-**Hasil output program:**
+* **Hasil output program:**
 ![Gambar 3](screenshoot/ss3.png)
 
 ### 4. File program latihan 2 (Lab 3 Perulangan)
 **Program untuk menampikan bilangan acak yang lebih kecil dari 0.5**
 
-***CODINGAN:**
+* **CODINGAN:**
 ```
  print("="*58)
  print("Program menampikan bilangan acak yang lebih kecil dari 0.5")
@@ -100,7 +100,7 @@ for a in range(0,10):
  for i in range(jumlah):
     print("data ke",i+1,"=>",(random.uniform(0.1,0.5)))
 ```    
-**Hasil output program:**
+* **Hasil output program:**
 
 ![Gambar 4](screenshoot/ss4.png)
 
