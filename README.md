@@ -1,4 +1,4 @@
-# Praktikum3
+# Tugas praktikum 2
 ## Tugas Pertemuan 7 - Bahasa Pemrograman
 
 ### 1. File program latihan1 (Lab 2 Struktur kondisi)
@@ -95,6 +95,7 @@ for a in range(0,10):
 ```
 
 * **Hasil output program:**
+
 ![Gambar 3](screenshoot/ss3.png)
 
 ### 4. File program latihan 2 (Lab 3 Perulangan)
