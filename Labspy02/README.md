@@ -31,8 +31,8 @@
 ```
 Berikut adalah flowchart program:
 
-![Gambar 6](screenshoot/flowchart.png)
+![Gambar 1](screenshoot/flowchart.png)
 
 * **Hasil output program:**
 
-![Gambar 5](screenshoot/ss5.png)
+![Gambar 2](screenshoot/ss.png)
