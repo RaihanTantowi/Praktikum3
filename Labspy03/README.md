@@ -30,4 +30,44 @@
 
 * **Hasil output program:**
 
-![Gambar 2](screenshoot/ss1.png)
+![Gambar 1](screenshoot/ss1.png)
+
+### 2. File latihan2.py
+**Program sederhana untuk menampilkan bilangan terbesar dari n buah data yang diinputkan**
+
+* **CODINGAN:**
+```
+ print("Menampilkan bilangan terbesar dari n buah data yang diinput")
+
+ max = 0
+ while True:
+     a = int(input("Masukkan Bilangan: "))
+     if max < a:
+         max = a
+     if a ==0:
+         break
+ print("Bilangan Terbesar Adalah: ", max)
+ ```
+
+ * **Penjelasan alur program:**
+```
+   -print("Menampilkan bilangan terbesar dari n buah data yang diinput") 
+   itu merupakan perintah untuk menampilkan sebuah input dari judul program
+   -a = int(input("Masukkan Bilangan: "))
+   Adalah perinntah untuk menginputkan bilangan
+   -if max < a:
+         max = a
+   ini adalah  max kurang dari nilai a, maka max sama dengan a
+   -if a ==0:
+         break 
+   Adalah perintah untuk berhenti dari program yang sedang berjalan, dengaan mengetik angka 0
+   -print("Bilangan Terbesar Adalah: ", max)
+   Adalah perintah untuk menampilkan hasil yang terbesar dari sebuah bilangan yang diinputkan
+```
+
+* **Hasil output program:**
+
+![Gambar 2](screenshoot/ss2.png)
+
+### 3. File program1.py
+**Program sederhana untuk menampilkan bilangan terbesar dari n buah data yang diinputkan**
